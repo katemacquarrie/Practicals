@@ -1,7 +1,5 @@
 # Practicals
-Various exercises in Java
-
-This repository contains various standalone Java programs solving different algorithmic and computational problems. Each .java file is self-contained and does not require additional dependencies or build tools.
+This repository contains various standalone Java exercises solving different algorithmic and computational problems. Each .java file is self-contained and does not require additional dependencies or build tools.
 
 # Usage
 Compilation & Execution
