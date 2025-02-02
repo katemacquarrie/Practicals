@@ -11,7 +11,5 @@ java ProgramName
 
 Replace ProgramName with the actual filename (without the .java extension).
 
-# Contents
-This repository includes Java programs for:
 
 
