@@ -6,11 +6,12 @@ Compilation & Execution
 To run any program, use the following commands:
 
 javac ProgramName.java
+
 java ProgramName
 
 Replace ProgramName with the actual filename (without the .java extension).
 
-#Contents
+# Contents
 This repository includes Java programs for:
 
 
